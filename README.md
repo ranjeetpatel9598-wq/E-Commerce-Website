@@ -21,6 +21,5 @@ This project is a fully functional E-commerce web application developed as part 
 * **Design:** Custom CSS for a professional look
 
 ### 🚀 Setup Instructions:
-1. Clone the repo: `git clone [Your Repository Link]`
-2. **Backend:** Navigate to `/backend`, run `npm install`, then `node server.js`.
-3. **Frontend:** Navigate to `/frontend`, run `npm install`, then `npm start`.
+1. **Backend:** Navigate to `/backend`, run `npm install`, then `node server.js`.
+2. **Frontend:** Navigate to `/frontend`, run `npm install`, then `npm start`.
